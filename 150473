@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en-US">
+	<head>
+		<title>chattr|app</title>
+		<meta charset="UTF-8" />
+
+		<style>
+   * {
+   	font-family: 'Arial' , sans-serif;
+   	}
+   	body {
+   		background-color:      rgb(0,255,255);
+   	}
+   h1 {
+   	background-color :rgb(0, 51, 51); color: rgb(255,255,255);
+   	}
+   
+  button {
+  	border: none; padding: 0; background: none;}
+  img {
+  	background: none;
+  	}
+  div {
+  	background-color: rgb(255,255,255);
+  }
+
+  
+		</style>
+	</head>
+	<body>
+		<h1>
+			<img src="https://ip.lfe.mw.tum.de/sections/moocus.png"  alt="Moocus, averytalkativeduck" style="height: 56px;" />
+
+			chatter|app
+
+		</h1>
+		<ul style="list-style-type:none;">
+			<li>
+				<span style="background-color:rgb(255,255,255);"><a  href ="chat.html" target="_self">#Lover</a>
+				<button>
+					<img src="https://ip.lfe.mw.tum.de/sections/star.png" alt="a star">
+
+				</button>
+				</span>
+			</li>
+			<li>
+				<span style="background-color:rgb(255,255,255);">#Peaceful
+				<button>
+					<img src="https://ip.lfe.mw.tum.de/sections/star-o.png" alt="an empty star">
+				
+				</button>
+				</span>
+			</li>
+			<li>
+				<span style="background-color:rgb(255,255,255);">#Smart
+				<button>
+					<img src="https://ip.lfe.mw.tum.de/sections/star.png" alt="a star">
+
+				</button>
+				</span>
+			</li>
+			<li>
+				<span style="background-color:rgb(255,255,255);">#Creative
+				<button>
+					<img src="https://ip.lfe.mw.tum.de/sections/star-o.png" alt="an empty star">
+
+				</button>
+				</span>
+			</li>
+			<li><span style="background-color: rgb(255,255,255);">
+				#Successful
+				<button>
+					<img src="https://ip.lfe.mw.tum.de/sections/star.png" alt="a star">
+
+				</button>
+				</span>
+			</li>
+		</ul>
+		<!--this is the tap bar of the buttons-->
+		<div>
+			<button style="background-color: rgb(0, 188, 212); text-transform: uppercase;">New
+				<img src="https://ip.lfe.mw.tum.de/sections/lightbulb-o.png" alt="new">
+
+			</button>
+			<button style="background-color: rgb(0, 188, 212);text-transform: uppercase;">Trending
+				<img src="https://ip.lfe.mw.tum.de/sections/fire.png" alt="trending">
+
+			</button>
+			<button style="background-color: rgb(0, 188, 212);text-transform: uppercase;">
+				favorites
+
+				<img src= "https://ip.lfe.mw.tum.de/sections/star.png" alt="favorites">
+
+			</button>
+		</div>
+	</body>
+</html>
+    
